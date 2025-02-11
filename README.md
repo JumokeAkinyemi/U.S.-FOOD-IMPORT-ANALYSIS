@@ -1,1 +1,2 @@
 # U.S.-FOOD-IMPORT-ANALYSIS
+The global food trade is a crucial component of the U.S. economy, impacting supply chains, pricing, and consumer choices. This analysis explores food import trends using publicly available data from Data.gov. The dataset provides insights into the total value of U.S. food imports across different years, commodities, and countries. By analyzing trends, we can identify which food items are most imported, which countries contribute the most, and how import patterns change over time.
